@@ -1,0 +1,1 @@
+Our team has has worked upon depression dataset and have used multiple models like SVM, Logistic Regression, KNN etc. This project is for classification problems and accuracy scores lies within 80-85%. Our best model is from ensemble learning that is XGBoost.
